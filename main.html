@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Оценка ЧК</title>
+	<link href="https://fonts.googleapis.com/css2?family=Anaheim&family=Inter&family=Martel:wght@200&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="css/adaptive.css">
+</head>
+<body>
+	 
+     <div class="page2">
+     	<header class="header">
+     		<img class="logo" src="img/Logo.png">
+     		<a class="btnquestion" href="#" onclick="document.getElementById('entr').style.display='block';"><img class="img1" src="img/btnquestion.png"></a>
+
+     		<div id="entr" >
+     			<img class="entrborder" src="img/entrborder.png">
+     			
+     			<div class="miniaccount" onclick="location.href='account.html';">	
+     				<img class="minifoto" src="img/nophoto_ru.png">
+     				<p class="p">ФИО:</p>
+     				<p class="p">Город: </p>
+     				<p class="p">Деятельность: </p>
+     				<p class="p">Пройдено оценок:</p>
+     				<p class="p">Загружено достижений:</p>
+     				<a class="exit" href="index.html"> Выйти </a>
+     			</div>
+                <a class="close2" href="#" onclick="document.getElementById('entr').style.display='none';">x</a>
+     		</div>
+
+     		<a class="addachiv" href="#" onclick="document.getElementById('achiv2').style.display='block';"><img class="imgaddachiv" src="img/addachiv.png"></a>
+     		<a class="grade" href="task.html"><img class="imggrade" src="img/grade.png"></a>
+     		<div id="achiv2">
+     			<a class="close" href="#" onclick="document.getElementById('achiv2').style.display='none';">x</a>
+     			<form action="/" method="post">
+     	    		<div class="loadachiv2">
+     	    			<input class="data2" type="text" name="achiv2" placeholder="Ввести данные">          
+     	    		</div> 
+     	    		<div class="loadachiv2">
+     	    			<label class="file2">
+     	    				<input type="file" name="file" class="foto">
+     	    					Изображение
+     	    			</label>
+     	    		</div>
+     	    	</form>
+     	    </div>		
+     	</header>
+     	<section class="about">
+     	    <div class="container">
+     	    	<div class="content">
+     	    		<div class="news">
+     	    		</div>
+     	    		<div class="news1">
+     	    		</div>
+     	    		<div class="news2">
+     	    		</div>
+     	    	</div>
+     	    </div>	
+     	</section>
+     	<footer class="footer">
+     		<div class="container">
+     			<div class="footer-text2">
+     				<p>
+     					2022
+     				</p>
+     				<p>
+     					 Институт опережающих технологий ДГТУ
+     				</p>
+     			</div>
+     		</div>
+     	</footer>
+     </div>
+
+
+</body>
+</html>

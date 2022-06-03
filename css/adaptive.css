@@ -1,0 +1,1690 @@
+@media only screen and (max-width: 640px){
+
+	html {
+        overflow-x: hidden;
+    }
+
+	.logo {
+		width: 83px;
+        height: 33px;
+		left: 21px;
+	}
+
+	.header {
+		background-size: 640px;
+		
+	}
+
+	.header1 {
+		background-size: 640px;
+		height: 500px ;
+		
+
+	}
+
+	.btnquestion {
+		width: 35px;
+        height: 35px;
+        left: 400px;
+        top: 20px;
+	}
+
+	.img1 {
+		width: 35px;
+		height: 35px;
+	}
+
+	.p {
+		font-size: 7px;
+        line-height: 8px;
+        margin-bottom: 5px;
+        margin-left: 18px;
+
+	}
+
+	.page {
+		background-size: 466px 584px;
+		background-position: 65px 108px;
+		height: 773px;
+	}
+
+	.form {
+		top: 14px;
+        left: 15px;
+	}
+
+	.close1 {
+		padding-left: 80px;
+        top: 4px;
+        font-size: 13px;
+	}
+
+	.group1 {
+		height: 40px;
+	
+	}
+
+	.label {
+		font-size: 15px;
+		left: 23px;
+	}
+
+	.input {
+		width: 75px;
+        height: 13px;
+        border: 1px solid #000000;
+        top: -49px;
+        font-size: 8px;
+	}
+
+	.ok {
+		font-size: 12px;
+		top: 2px;
+		left: 70px;
+		border: 1px solid #000000;
+	}
+
+	.registr {
+		left: 24px;
+        top: 137px;
+        font-size: 15px;
+	}
+
+	.sms{
+		width: 317px;
+        height: 93px;
+        left: 75px;
+        top: 112px;
+	}
+
+	.sms p {
+		width: 240px;
+		font-size: 15px;
+		height: 85px;
+		margin-left: 45px;
+		line-height: 2;
+	}
+
+	.sms1{
+		width: 317px;
+        height: 93px;
+        left: 75px;
+        top: 224px;
+	}
+
+	.sms1 p {
+		width: 240px;
+		font-size: 15px;
+		height: 85px;
+		margin-left: 45px;
+		line-height: 2;
+	}
+
+
+	.sms2{
+		width: 317px;
+        height: 93px;
+        left: 75px;
+        top: 336px;
+	}
+
+	.sms2 p {
+		width: 240px;
+		font-size: 15px;
+		height: 85px;
+		margin-left: 45px;
+		line-height: 2;
+	}
+
+
+	.sms3{
+		width: 317px;
+        height: 93px;;
+        left: 75px;
+        top: 448px;
+	}
+
+	.sms3 p {
+		width: 240px;
+		font-size: 15px;
+		height: 85px;
+		margin-left: 45px;
+		line-height: 2;
+	}
+
+	.btn {
+		left: 81px;
+        top: 636px;
+        height: 30px;
+        width: 297px
+	}
+
+	.imgbtn {
+		width: 319px;
+	}
+
+	.footer-text {
+		gap: 42px;
+		font-size: 9px;
+        line-height: 20px;
+        padding: 28px 45px;
+        height: 56px;
+		top: 773px;
+	}
+
+	.footer-text p {
+		margin-right: 50px;
+	}
+
+	.page1 {
+		background-position: -85px 69px;
+        background-size: 446px;
+        height: 600px;
+        
+	}
+
+	.registrborder {
+		left: 60px;
+        top: 85px;
+        width: 351px;
+	}
+
+	.registrform {
+		width: 350px;
+		left: 77px;
+        top: 107px;
+        height: 100px;
+		
+    
+	}
+
+	.group {
+		margin: 0;
+		height: 25px;
+	}
+
+	.label1 {
+		font-size: 15px;
+		height: 0px;
+		top: -16px;
+	}
+
+	.input1 {
+		width: 150px;
+        height: 13px;
+        border: 2px solid #000000;
+        top: -25px;
+        font-size: 8px;
+	}
+
+	.select1 {
+		width: 150px;
+        height: 13px;
+        border: 2px solid #000000;
+        top: -20px;
+
+	}
+
+	
+
+	.achiv {
+		width: 343px;
+		height: 84px;
+		left: 66px;
+        top: 280px;
+        border: 3px solid #000000;
+	}
+
+	.loadachiv {
+		margin-left: 35px;
+        margin-top: 3.7px;
+	}
+
+	.file {
+		font-size: 12px;
+        width: 117px;
+        height: 46px;
+        padding-top: 0;
+        border: 1px  solid #000000;
+        top: 15px;
+        line-height: 40px;
+	}
+
+	.data {
+		font-size: 12px;
+        width: 117px;
+        height: 46px;
+        padding-top: 0;
+        border: 1px  solid #000000;
+	}
+
+	.imgbtn1 {
+		width: 319px;
+	}
+
+	.btn1 {
+		left: 74px;
+        top: 420px;
+        height: 50px;
+        width: 300px
+	}
+
+	.footer-text1 {
+		gap: 42px;
+		font-size: 9px;
+        line-height: 20px;
+        padding: 28px 45px;
+        height: 56px;
+        top: 550px;
+	}
+
+	.footer-text1 p {
+		margin-right: 50px;
+	}
+
+	.page2 {
+		height: 810px;
+		background-position: -1px 79px;
+        background-size: 462px 665px;
+	}
+
+	.loadachiv2 {
+		margin-left: 12px;
+        margin-top: -13px;
+	}
+
+	.close {
+		padding-right: 3px;
+        top: -17px;
+        font-size: 15px;
+        position: relative;
+	}
+
+	.data2 {
+		width: 75px;
+		height: 35px;
+		font-size: 7px;
+		border: 1px solid #000000;
+	}
+
+	.file2 {
+		width: 75px;
+		padding-top: 2px;
+		font-size: 7px;
+		height: 35px;
+		top: 5px;
+		border: 1px solid #000000;
+	}
+
+	#achiv2 {
+		width: 194px;
+        height: 50px;
+        left: 150px;
+        top: 65px;
+        border: 2px solid #000000;
+	}
+
+
+	.addachiv {
+		left: 150px;
+        top: 15px;
+	}
+
+	.imgaddachiv {
+		width: 132px;
+
+	}
+
+	.grade {
+		left: 290px;
+        top: 15px;
+	}
+
+	.imggrade {
+		width: 79px;
+
+	}
+
+	.news {
+		width: 385px;
+        height: 152px;
+        left: 25px;
+        top: 102px;
+        border: 2px solid #000000;
+	}
+
+	.news1 {
+		width: 385px;
+        height: 152px;
+        left: 25px;
+        border: 2px solid #000000;
+        top: 284px;
+	}
+
+	.news2 {
+		width: 385px;
+        height: 152px;
+        left: 25px;
+        border: 2px solid #000000;
+        top: 466px;
+	}
+
+
+	.exit {
+		width: 55px;
+        height: 10px;
+        padding-left: 45px;
+        margin-top: -5px;
+        font-size: 10px;
+	}
+
+	.minifoto {
+		width: 35px;
+        height: 35px;
+        left: 37px;
+        border-radius: 3px;
+	}
+
+	.miniaccount {
+        width: 105px;
+        height: 100px;
+        left: 1px;
+        top: 30px;
+    }
+
+    .entrborder {
+        width: 120px;
+	}
+
+	#entr {
+		left: 350px;
+		top: 40px;
+		width: 100px;
+        height: 108px;
+	}
+
+	.close2 {
+		top: 15px;
+        left: 95px;
+        font-size: 15px
+	}
+
+	.footer-text2 {
+		gap: 2px;
+		font-size: 9px;
+        line-height: 20px;
+        padding: 28px 35px;
+        height: 56px;
+        top: 809px;
+	}
+
+	.footer-text2 p {
+		margin-right: 50px;
+	}
+
+	.task {
+		left: 40px;
+		top: 200px;
+		width: 200px;
+	}
+
+
+	.addtask{
+		width: 385px;
+        height: 50px;
+        border: 2px solid #000000;
+        margin-bottom: 49px;
+
+	}
+	.nametask{
+		font-size: 13px;
+		margin-top: 0px;
+		margin-left: 10px;
+		width: 160px;
+	}
+	.test{
+		padding-top: 4px;
+        padding-left: 3px;
+        font-size: 13px;
+        line-height: 18px;
+        width: 86px;
+        height: 48px;
+        border-left: 2px solid #000000;
+	}
+
+	.footer-text4 {
+		gap: 2px;
+		font-size: 9px;
+        line-height: 20px;
+        padding: 28px 35px;
+        height: 56px;
+	}
+
+	.footer-text4 p {
+		margin-right: 50px;
+	}
+
+	.page3 {
+		height: 500px;
+	}
+
+	.logo3 {
+		width: 73px;
+		height: 29px;
+		left: 370px;
+	}
+
+	.account {
+		padding-left: 13px;
+        padding-top: 66px;
+	}
+
+	.foto {
+		width: 108px;
+		height: 108px;
+		border: 3px solid #F3D3B8;
+	}
+
+	.inf {
+		width: 110px;
+        height: 200px;
+        left: 13px;
+        top: 190px;
+        border: 3px solid #000000;
+	}
+
+	.infotext {
+		font-size: 10px;
+        line-height: 11px;
+        margin-top: 14px;
+        margin-left: 5px;
+        text-align: left;
+	}
+
+	.rose {
+		left: 150px;
+        top: 150px;
+        width: 330px;
+        height: 200px;
+	}
+
+	.imgrose {
+		width: 310px;
+	}
+
+	.btn3 {
+		width: 70px;
+		left: 400px;
+        top: 400px;
+	}
+
+	.imgbtn3 {
+		width: 57px;
+	}
+
+	.footer-text3 {
+		gap: 2px;
+		font-size: 9px;
+        line-height: 20px;
+        padding: 28px 35px;
+        height: 56px;
+        top: 498px;
+	}
+
+	.footer-text3 p {
+		margin-right: 50px;
+	}
+
+	.compil {
+		top: 200px;
+	}
+
+	.footer-text5 {
+		gap: 2px;
+		font-size: 9px;
+        line-height: 20px;
+        padding: 28px 35px;
+        height: 56px;
+	}
+
+	.footer-text5 p {
+		margin-right: 50px;
+	}
+}
+
+
+
+
+
+
+@media only screen and (max-width: 480px){
+
+	html {
+        overflow-x: hidden;
+    }
+
+	.logo {
+		width: 83px;
+        height: 33px;
+		left: 21px;
+	}
+
+	.header {
+		background-size: 480px;
+		
+	}
+
+	.header1 {
+		background-size: 480px;
+		height: 500px ;
+		
+
+	}
+
+	.btnquestion {
+		width: 35px;
+        height: 35px;
+        left: 400px;
+        top: 20px;
+	}
+
+	.img1 {
+		width: 35px;
+		height: 35px;
+	}
+
+	.p {
+		font-size: 7px;
+        line-height: 8px;
+        margin-bottom: 5px;
+        margin-left: 18px;
+
+	}
+
+	.page {
+		background-size: 466px 584px;
+		background-position: 65px 108px;
+		height: 773px;
+	}
+
+	.form {
+		top: 14px;
+        left: 15px;
+	}
+
+	.close1 {
+		padding-left: 80px;
+        top: 4px;
+        font-size: 13px;
+	}
+
+	.group1 {
+		height: 40px;
+	
+	}
+
+	.label {
+		font-size: 15px;
+		left: 23px;
+	}
+
+	.input {
+		width: 75px;
+        height: 13px;
+        border: 1px solid #000000;
+        top: -49px;
+        font-size: 8px;
+	}
+
+	.ok {
+		font-size: 12px;
+		top: 2px;
+		left: 70px;
+		border: 1px solid #000000;
+	}
+
+	.registr {
+		left: 24px;
+        top: 137px;
+        font-size: 15px;
+	}
+
+	.sms{
+		width: 317px;
+        height: 93px;
+        left: 75px;
+        top: 112px;
+	}
+
+	.sms p {
+		width: 240px;
+		font-size: 15px;
+		height: 85px;
+		margin-left: 45px;
+		line-height: 2;
+	}
+
+	.sms1{
+		width: 317px;
+        height: 93px;
+        left: 75px;
+        top: 224px;
+	}
+
+	.sms1 p {
+		width: 240px;
+		font-size: 15px;
+		height: 85px;
+		margin-left: 45px;
+		line-height: 2;
+	}
+
+
+	.sms2{
+		width: 317px;
+        height: 93px;
+        left: 75px;
+        top: 336px;
+	}
+
+	.sms2 p {
+		width: 240px;
+		font-size: 15px;
+		height: 85px;
+		margin-left: 45px;
+		line-height: 2;
+	}
+
+
+	.sms3{
+		width: 317px;
+        height: 93px;;
+        left: 75px;
+        top: 448px;
+	}
+
+	.sms3 p {
+		width: 240px;
+		font-size: 15px;
+		height: 85px;
+		margin-left: 45px;
+		line-height: 2;
+	}
+
+	.btn {
+		left: 81px;
+        top: 636px;
+        height: 30px;
+        width: 297px
+	}
+
+	.imgbtn {
+		width: 319px;
+	}
+
+	.footer-text {
+		gap: 42px;
+		font-size: 9px;
+        line-height: 20px;
+        padding: 28px 45px;
+        height: 56px;
+		top: 773px;
+	}
+
+	.footer-text p {
+		margin-right: 50px;
+	}
+
+	.page1 {
+		background: #444C5C;
+		background-position: -85px 69px;
+        background-size: 446px;
+        height: 800px;
+        
+	}
+
+	.registrborder {
+		left: 60px;
+        top: 85px;
+        width: 351px;
+	}
+
+	.registrform {
+		width: 350px;
+		left: 77px;
+        top: 107px;
+        height: 100px;
+		
+    
+	}
+
+	.group {
+		margin: 0;
+		height: 25px;
+	}
+
+	.label1 {
+		font-size: 15px;
+		height: 0px;
+		top: -16px;
+	}
+
+	.input1 {
+		width: 150px;
+        height: 13px;
+        border: 2px solid #000000;
+        top: -25px;
+        font-size: 8px;
+	}
+
+	.select1 {
+		width: 150px;
+        height: 13px;
+        border: 2px solid #000000;
+        top: -20px;
+
+	}
+
+	
+
+	.achiv {
+		width: 343px;
+		height: 84px;
+		left: 66px;
+        top: 280px;
+        border: 3px solid #000000;
+	}
+
+	.loadachiv {
+		margin-left: 35px;
+        margin-top: 3.7px;
+	}
+
+	.file {
+		font-size: 12px;
+        width: 117px;
+        height: 46px;
+        padding-top: 0;
+        border: 1px  solid #000000;
+        top: 15px;
+        line-height: 40px;
+	}
+
+	.data {
+		font-size: 12px;
+        width: 117px;
+        height: 46px;
+        padding-top: 0;
+        border: 1px  solid #000000;
+	}
+
+	.imgbtn1 {
+		width: 319px;
+	}
+
+	.btn1 {
+		left: 74px;
+        top: 420px;
+        height: 50px;
+        width: 300px
+	}
+
+	.footer-text1 {
+		gap: 42px;
+		font-size: 9px;
+        line-height: 20px;
+        padding: 28px 45px;
+        height: 56px;
+        top: 799px;
+	}
+
+	.footer-text1 p {
+		margin-right: 50px;
+	}
+
+	.page2 {
+		height: 810px;
+		background-position: -1px 79px;
+        background-size: 462px 665px;
+	}
+
+	.loadachiv2 {
+		margin-left: 12px;
+        margin-top: -13px;
+	}
+
+	.close {
+		padding-right: 3px;
+        top: -17px;
+        font-size: 15px;
+        position: relative;
+	}
+
+	.data2 {
+		width: 75px;
+		height: 35px;
+		font-size: 7px;
+		border: 1px solid #000000;
+	}
+
+	.file2 {
+		width: 75px;
+		padding-top: 2px;
+		font-size: 7px;
+		height: 35px;
+		top: 5px;
+		border: 1px solid #000000;
+	}
+
+	#achiv2 {
+		width: 194px;
+        height: 50px;
+        left: 150px;
+        top: 65px;
+        border: 2px solid #000000;
+	}
+
+
+	.addachiv {
+		left: 150px;
+        top: 15px;
+	}
+
+	.imgaddachiv {
+		width: 132px;
+
+	}
+
+	.grade {
+		left: 290px;
+        top: 15px;
+	}
+
+	.imggrade {
+		width: 79px;
+
+	}
+
+	.news {
+		width: 385px;
+        height: 152px;
+        left: 25px;
+        top: 102px;
+        border: 2px solid #000000;
+	}
+
+	.news1 {
+		width: 385px;
+        height: 152px;
+        left: 25px;
+        border: 2px solid #000000;
+        top: 284px;
+	}
+
+	.news2 {
+		width: 385px;
+        height: 152px;
+        left: 25px;
+        border: 2px solid #000000;
+        top: 466px;
+	}
+
+
+	.exit {
+		width: 55px;
+        height: 10px;
+        padding-left: 45px;
+        margin-top: -5px;
+        font-size: 10px;
+	}
+
+	.minifoto {
+		width: 35px;
+        height: 35px;
+        left: 37px;
+        border-radius: 3px;
+	}
+
+	.miniaccount {
+        width: 105px;
+        height: 100px;
+        left: 1px;
+        top: 30px;
+    }
+
+    .entrborder {
+        width: 120px;
+	}
+
+	#entr {
+		left: 350px;
+		top: 40px;
+		width: 100px;
+        height: 108px;
+	}
+
+	.close2 {
+		top: 15px;
+        left: 95px;
+        font-size: 15px
+	}
+
+	.footer-text2 {
+		gap: 2px;
+		font-size: 9px;
+        line-height: 20px;
+        padding: 28px 35px;
+        height: 56px;
+        top: 809px;
+	}
+
+	.footer-text2 p {
+		margin-right: 50px;
+	}
+
+	.task {
+		left: 40px;
+		top: 200px;
+		width: 200px;
+	}
+
+
+	.addtask{
+		width: 385px;
+        height: 50px;
+        border: 2px solid #000000;
+        margin-bottom: 49px;
+
+	}
+	.nametask{
+		font-size: 13px;
+		margin-top: 0px;
+		margin-left: 10px;
+		width: 160px;
+	}
+	.test{
+		padding-top: 4px;
+        padding-left: 3px;
+        font-size: 13px;
+        line-height: 18px;
+        width: 86px;
+        height: 48px;
+        border-left: 2px solid #000000;
+	}
+
+	.footer-text4 {
+		gap: 2px;
+		font-size: 9px;
+        line-height: 20px;
+        padding: 28px 35px;
+        height: 56px;
+	}
+
+	.footer-text4 p {
+		margin-right: 50px;
+	}
+
+	.page3 {
+		height: 800px;
+	}
+
+	.logo3 {
+		width: 73px;
+		height: 29px;
+		left: 370px;
+	}
+
+	.account {
+		padding-left: 13px;
+        padding-top: 66px;
+	}
+
+	.foto {
+		width: 108px;
+		height: 108px;
+		border: 3px solid #F3D3B8;
+	}
+
+	.inf {
+		width: 110px;
+        height: 200px;
+        left: 13px;
+        top: 190px;
+        border: 3px solid #000000;
+	}
+
+	.infotext {
+		font-size: 10px;
+        line-height: 11px;
+        margin-top: 14px;
+        margin-left: 5px;
+        text-align: left;
+	}
+
+	.rose {
+		left: 150px;
+        top: 150px;
+        width: 330px;
+        height: 200px;
+	}
+
+	.imgrose {
+		width: 310px;
+	}
+
+	.btn3 {
+		width: 70px;
+		left: 400px;
+        top: 400px;
+	}
+
+	.imgbtn3 {
+		width: 57px;
+	}
+
+	.footer-text3 {
+		gap: 2px;
+		font-size: 9px;
+        line-height: 20px;
+        padding: 28px 35px;
+        height: 56px;
+        top: 799px;
+	}
+
+	.footer-text3 p {
+		margin-right: 50px;
+	}
+
+	.compil {
+		top: 200px;
+	}
+
+	.footer-text5 {
+		gap: 2px;
+		font-size: 9px;
+        line-height: 20px;
+        padding: 28px 35px;
+        height: 56px;
+	}
+
+	.footer-text5 p {
+		margin-right: 50px;
+	}
+}
+
+
+
+	
+
+	
+
+
+
+
+
+@media only screen and (max-width: 400px){
+
+	html {
+        overflow-x: hidden;
+    }
+
+	.logo {
+		width: 55px;
+		height: 22px;
+		left: 21px;
+	}
+
+	.header {
+		background-size: 400px;
+		width: 100%;
+		
+	}
+
+	.header1 {
+		background-size: 400px;
+		width: 100%;
+
+		
+
+	}
+
+	.btnquestion {
+		width: 30px;
+		height: 30px;
+		left: 330px;
+		top: 10px;
+	}
+
+	.img1 {
+		width: 25px;
+		height: 25px;
+	}
+
+	.p {
+		font-size: 5px;
+        line-height: 1px;
+        margin-bottom: 10px;
+        margin-left: 14px;
+
+	}
+
+	.page {
+		background-size: 297px 390px;
+		background-position: 43px 72px;
+		height: 773px;
+	}
+
+	.form {
+		top: 4px;
+        left: 5px;
+	}
+
+	.close1 {
+		padding-left: 75px;
+        top: 4px;
+        font-size: 10px;
+	}
+
+	.group1 {
+		height: 40px;
+	
+	}
+
+	.label {
+		font-size: 10px;
+		left: 27px;
+	}
+
+	.input {
+		width: 70px;
+        height: 10px;
+        border: 1px solid #000000;
+        top: -49px;
+        font-size: 8px;
+	}
+
+	.ok {
+		font-size: 8px;
+		top: 1px;
+		left: 65px;
+		border: 1px solid #000000;
+	}
+
+	.registr {
+		left: 24px;
+        top: 115px;
+        font-size: 10px;
+        width: 53px;
+	}
+
+	.sms{
+		width: 290px;
+        height: 82px;
+        left: 20px;
+        top: 112px;
+	}
+
+	.sms p {
+		width: 200px;
+		font-size: 10px;
+		height: 80px;
+		margin-left: 40px;
+		line-height: 2;
+	}
+
+	.sms1{
+		width: 290px;
+        height: 82px;
+        left: 20px;
+        top: 224px;
+	}
+
+	.sms1 p {
+		width: 200px;
+		font-size: 10px;
+		height: 80px;
+		margin-left: 40px;
+		line-height: 2;
+	}
+
+
+	.sms2{
+		width: 290px;
+        height: 82px;
+        left: 20px;
+        top: 336px;
+	}
+
+	.sms2 p {
+		width: 200px;
+		font-size: 10px;
+		height: 80px;
+		margin-left: 40px;
+		line-height: 2;
+	}
+
+
+	.sms3{
+		width: 290px;
+        height: 82px;
+        left: 20px;
+        top: 448px;
+	}
+
+	.sms3 p {
+		width: 200px;
+		font-size: 10px;
+		height: 80px;
+		margin-left: 40px;
+		line-height: 2;
+	}
+
+	.btn {
+		left: 61px;
+        top: 636px;
+        height: 30px;
+        width: 200px
+	}
+
+	.imgbtn {
+		width: 200px;
+	}
+
+	.footer-text {
+		gap: 2px;
+		font-size: 9px;
+        line-height: 20px;
+        padding: 28px 35px;
+        height: 56px;
+		top: 773px;
+	}
+
+	.footer-text p {
+		margin-right: 50px;
+	}
+
+	.page1 {
+		background: #444C5C;
+		background-position: -56px 23px;
+        background-size: 298px;
+        height: 700px;
+        
+	}
+
+	.registrborder {
+		left: 45px;
+        top: 85px;
+        width: 246px;
+	}
+
+	.registrform {
+		width: 250px;
+		left: 57px;
+        top: 100px;
+        height: 100px;
+		
+    
+	}
+
+	.group {
+		margin: 0;
+		height: 17px;
+	}
+
+	.label1 {
+		font-size: 8px;
+		height: 0px;
+		top: -16px;
+	}
+
+	.input1 {
+		width: 150px;
+        height: 13px;
+        border: 2px solid #000000;
+        top: -25px;
+        font-size: 8px;
+	}
+
+	.select1 {
+		width: 150px;
+        height: 13px;
+        border: 2px solid #000000;
+        top: -20px;
+
+	}
+
+	
+
+	.achiv {
+		width: 228px;
+		height: 73px;
+		left: 55px;
+        top: 210px;
+        border: 3px solid #000000;
+	}
+
+	.loadachiv {
+		margin-left: 24px;
+        margin-top: -2.45px;
+	}
+
+	.file {
+		font-size: 8px;
+		width: 77px;
+        height: 41px;
+        padding-top: 0;
+        border: 1px  solid #000000;
+        top: 12px;
+        line-height: 40px;
+	}
+
+	.data {
+		font-size: 8px;
+        width: 77px;
+        height: 41px;
+        padding-top: 0;
+        border: 1px  solid #000000;
+	}
+
+	.imgbtn1 {
+		width: 268px;
+	}
+
+	.btn1 {
+		left: 35px;
+        top: 290px;
+        height: 50px;
+	}
+
+	.footer-text1 {
+		gap: 2px;
+		font-size: 9px;
+        line-height: 20px;
+        padding: 28px 35px;
+        height: 56px;
+        top: 699px;
+	}
+
+	.footer-text1 p {
+		margin-right: 50px;
+	}
+
+	.page2 {
+		height: 810px;
+		background-position: -1px 53px;
+        background-size: 308px 444px;
+	}
+
+	.loadachiv2 {
+		margin-left: 12px;
+        margin-top: -13px;
+	}
+
+	.close {
+		padding-right: 3px;
+        top: -17px;
+        font-size: 15px;
+        position: relative;
+	}
+
+	.data2 {
+		width: 75px;
+		height: 35px;
+		font-size: 7px;
+		border: 1px solid #000000;
+	}
+
+	.file2 {
+		width: 75px;
+		padding-top: 2px;
+		font-size: 7px;
+		height: 35px;
+		top: 5px;
+		border: 1px solid #000000;
+	}
+
+	#achiv2 {
+		width: 194px;
+        height: 50px;
+        left: 80px;
+        top: 65px;
+        border: 2px solid #000000;
+	}
+
+
+	.addachiv {
+		left: 100px;
+        top: 15px;
+	}
+
+	.imgaddachiv {
+		width: 100px;
+
+	}
+
+	.grade {
+		left: 210px;
+        top: 15px;
+	}
+
+	.imggrade {
+		width: 53px;
+
+	}
+
+	.news {
+		width: 257px;
+        height: 101px;
+        left: 45px;
+        top: 102px;
+        border: 2px solid #000000;
+	}
+
+	.news1 {
+		width: 257px;
+        height: 101px;
+        left: 45px;
+        border: 2px solid #000000;
+        top: 228px;
+	}
+
+	.news2 {
+		width: 257px;
+        height: 101px;
+        left: 45px;
+        border: 2px solid #000000;
+        top: 354px;
+	}
+
+
+	.exit {
+		width: 55px;
+        height: 10px;
+        padding-left: 35px;
+        margin-top: 1px;
+        font-size: 10px;
+	}
+
+	.minifoto {
+		width: 25px;
+        height: 25px;
+        left: 35px;
+        border-radius: 3px;
+	}
+
+	.miniaccount {
+        width: 100px;
+        height: 100px;
+        left: 1px;
+        top: 25px;
+    }
+
+    .entrborder {
+        width: 98px;
+	}
+
+	#entr {
+		left: 250px;
+		top: 40px;
+		width: 100px;
+        height: 108px;
+	}
+
+	.close2 {
+		top: 15px;
+        left: 77px;
+        font-size: 15px
+	}
+
+	.footer-text2 {
+		gap: 2px;
+		font-size: 9px;
+        line-height: 20px;
+        padding: 28px 35px;
+        height: 56px;
+        top: 809px;
+	}
+
+	.footer-text2 p {
+		margin-right: 50px;
+	}
+
+	.task {
+		left: 50px;
+		top: 200px;
+	}
+
+
+	.addtask{
+		width: 250px;
+        height: 50px;
+        border: 2px solid #000000;
+        margin-bottom: 45px;
+
+	}
+	.nametask{
+		font-size: 10px;
+		margin-top: 0px;
+		margin-left: 10px;
+		width: 150px;
+	}
+	.test{
+		padding-top: 4px;
+        padding-left: 12px;
+        font-size: 10px;
+        line-height: 18px;
+        width: 86px;
+        height: 48px;
+        border-left: 2px solid #000000;
+	}
+
+	.footer-text4 {
+		gap: 2px;
+		font-size: 9px;
+        line-height: 20px;
+        padding: 28px 35px;
+        height: 56px;
+	}
+
+	.footer-text4 p {
+		margin-right: 50px;
+	}
+
+	.page3 {
+		height: 800px;
+	}
+
+	.logo3 {
+		width: 65px;
+		height: 23px;
+		left: 270px;
+	}
+
+	.account {
+		padding-left: 15px;
+        padding-top: 56px;
+	}
+
+	.foto {
+		width: 65px;
+		height: 65px;
+		border: 3px solid #F3D3B8;
+	}
+
+	.inf {
+		width: 85px;
+        height: 150px;
+        left: 7px;
+        top: 130px;
+        border: 3px solid #000000;
+	}
+
+	.infotext {
+		font-size: 7px;
+        line-height: 10px;
+        margin-top: 7px;
+        margin-left: 2px;
+	}
+
+	.rose {
+		left: 120px;
+        top: 120px;
+        width: 200px;
+	}
+
+	.imgrose {
+		width: 210px;
+	}
+
+	.btn3{
+		left: 250px;
+        top: 270px;
+
+	}
+
+	.imgbtn3 {
+
+	}
+
+	.footer-text3 {
+		gap: 2px;
+		font-size: 9px;
+        line-height: 20px;
+        padding: 28px 35px;
+        height: 56px;
+        top: 799px;
+	}
+
+	.footer-text3 p {
+		margin-right: 50px;
+	}
+
+	.compil {
+		top: 200px;
+	}
+
+	
+
+	.footer-text5 {
+		gap: 2px;
+		font-size: 9px;
+        line-height: 20px;
+        padding: 28px 35px;
+        height: 56px;
+	}
+
+	.footer-text5 p {
+		margin-right: 50px;
+	}
+
+
+
+
+}
+
+
+
+
+
+
+
